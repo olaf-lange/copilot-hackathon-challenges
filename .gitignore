@@ -18,3 +18,5 @@ challenge-3/target/classes/org/example/com/hackathonchallenge1/model/Item.class
 challenge-3/target/classes/org/example/com/hackathonchallenge1/service/ItemService.class
 challenge-3/target/classes/org/example/com/hackathonchallenge1/service/ItemService$1.class
 challenge-3/target/test-classes/org/example/com/hackathonchallenge1/HackathonChallenge1ApplicationTests.class
+obj/
+bin/
