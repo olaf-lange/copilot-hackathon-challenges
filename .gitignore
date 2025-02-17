@@ -9,3 +9,12 @@ challenge-1/java-calculator-copilot/target/test-classes/example/ArithmeticIntegr
 challenge-1/java-calculator-copilot/target/test-classes/example/action/ArithmeticActionTest.class
 challenge-4/Highlight-Surface-Pro-AI-11Ed-Sapphire-MC001-3000x1682_VP5-1920x600.avif
 .DS_Store
+.vscode/settings.json
+challenge-3/target/classes/application.properties
+challenge-3/target/classes/data.json
+challenge-3/target/classes/org/example/com/hackathonchallenge1/HackathonChallenge1Application.class
+challenge-3/target/classes/org/example/com/hackathonchallenge1/controller/ItemController.class
+challenge-3/target/classes/org/example/com/hackathonchallenge1/model/Item.class
+challenge-3/target/classes/org/example/com/hackathonchallenge1/service/ItemService.class
+challenge-3/target/classes/org/example/com/hackathonchallenge1/service/ItemService$1.class
+challenge-3/target/test-classes/org/example/com/hackathonchallenge1/HackathonChallenge1ApplicationTests.class

@@ -41,7 +41,7 @@ please change the used model back to GPT 4o
 - Ask Copilot to convert your Script into Bash
 - Attach the `start.ps1` file with "Attach Context" to Copilot
 - Run Copilot
-- dont use crc32 command or cksum, it would work ), but defy the purpose of the exercise
+- dont use crc32 command or cksum. It would work, but defy the purpose of the exercise
 - In order to run this, in case you're running on Windows, please make sure you have a working WSL subsystem.
 - Set execute permissions for the Bash script:
   ```bash
