@@ -1,6 +1,6 @@
 using System;
 
-namespace Tempora
+namespace Challenge1
 {
     public interface IClock
     {

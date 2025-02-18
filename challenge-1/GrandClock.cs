@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Tempora
+namespace Challenge1
 {
     public class GrandClock : Clock
     {
